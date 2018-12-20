@@ -1,6 +1,9 @@
 # iDevRemotely2018-19 - Who am I? 
 ### Add your profile 😎 
+<<<<<<< HEAD
 **_Sample_**
+=======
+>>>>>>> d56610874b3ddb743913ee84fe20ed145854d422
 
 ___
 
