@@ -1,6 +1,4 @@
 # iDevRemotely2018-19 - Who am I? 
-### Add your profile 😎 
-
 ___
 
 **Name:** King June (@juneconnection) <br>
