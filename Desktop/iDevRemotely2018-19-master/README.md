@@ -1,11 +1,6 @@
-# iDevRemotely2018-19 - Who am I? 
-### Add your profile 😎 
-<<<<<<< HEAD
-**_Sample_**
-=======
->>>>>>> d56610874b3ddb743913ee84fe20ed145854d422
+# iDevRemotely2018-19 - Who am I?
 
-___
+
 
 **Name:** King June (@juneconnection) <br>
 **Occupation:** Web Developer | Machine Learning Engineer <br>
