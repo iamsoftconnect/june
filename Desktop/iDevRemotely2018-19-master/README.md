@@ -1,5 +1,6 @@
-# iDevRemotely2018-19 - Who am I? 
-___
+# iDevRemotely2018-19 - Who am I?
+
+
 
 **Name:** King June (@juneconnection) <br>
 **Occupation:** Web Developer | Machine Learning Engineer <br>
